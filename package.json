@@ -1,0 +1,29 @@
+{
+  "name": "biology-in-parcel-b",
+  "version": "1.0.0",
+  "description": "Biology of seasonal change and zeitgebers in Olin College of Engineering's forest, Parcel B",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev --port 1234",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdaitzman/biology-in-parcel-b.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sdaitzman/biology-in-parcel-b/issues"
+  },
+  "homepage": "https://github.com/sdaitzman/biology-in-parcel-b#readme",
+  "dependencies": {
+    "@centerforopenscience/markdown-it-imsize": "^2.0.1",
+    "fontsource-libre-baskerville": "^3.0.9",
+    "normalize.css": "^8.0.1",
+    "sass": "^1.29.0",
+    "sass-loader": "^10.1.0",
+    "vuepress": "^1.7.1"
+  }
+}

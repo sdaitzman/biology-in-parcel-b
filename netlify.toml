@@ -1,0 +1,8 @@
+[build]
+    command = "rm README.md; npm run build"
+    publish = ".vuepress/dist"
+    
+[[redirects]]
+    from = "/*"
+    to = "/index.html"
+    status = 200
