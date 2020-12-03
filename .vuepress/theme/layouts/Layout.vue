@@ -30,10 +30,9 @@ import mediumZoom from 'medium-zoom'
 export default {
   components: {
     // Nav
+  },
+  mounted() {
+    mediumZoom('img')
   }
 }
-
-$(document).ready(() => {
-      mediumZoom('img')
-})
 </script>
