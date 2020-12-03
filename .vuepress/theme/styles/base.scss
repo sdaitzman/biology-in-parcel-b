@@ -1,7 +1,9 @@
+$transition: 0.3s ease;
+
 body { font-family: "Libre Baskerville", "Times New Roman", serif }
 
 html, body {
-    transition: font-size 0.3s ease, padding 0.3s ease;
+    transition: font-size $transition, padding $transition, width $transition, max-width $transition;
 }
 
 a, a:visited { color: black }
@@ -15,12 +17,75 @@ a, a:visited { color: black }
     font-size: 20px;
     padding: 3rem 5rem;
     img {
-        max-width: 600px;
+        max-width: 75%;
+        align-self: flex-start;
+    
     }
 }
 
-@media (max-width: 500px) {
-    html {
-        font-size: 5px;
+.photos p {
+    display: flex;
+    flex-direction: column;
+    font-style: italic;
+    color: rgb(78, 78, 78);
+    img { margin: 100px 0 25px }
+}
+
+@media (max-width: 620px) {
+    html { font-size: 5px }
+    .body-container {
+        padding: 20px 10px;
+        img { max-width: 95% }
     }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+// POINTER
+/* 
+    This CSS file was created by OwL for use by pointer.js, 
+     witch can be found on https://seattleowl.com. 
+*/
+
+#pointer-dot {
+    left: 0;
+    top: 0;
+    width: 0;
+    height: 0;
+    border: 2.5px solid black;
+    position: fixed;
+    border-radius: 4px;
+    z-index: 101;
+    pointer-events: none;
+    transition: border-color 0.5s;
+}
+
+#pointer-ring {
+    left: 0;
+    top: 0;
+    width: 0;
+    height: 0;
+    padding: 15px;
+    border: 2px solid black;
+    position: fixed;
+    border-radius: 100px;
+    z-index: 102;
+    pointer-events: none;
+}
+
+html {
+    cursor: none !important;
+}
+
+a {
+    cursor: none !important;
 }
