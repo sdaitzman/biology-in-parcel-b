@@ -10,12 +10,10 @@ This website represents a summary and documentation for my research project docu
 
 *Made with ❤️ and 📸 by [Sam](https://sam.daitzman.com) at [Olin College](https://www.olin.edu) in Needham, Massachusetts.*
 
-<br><br><br>
-
 <div class="photos">
 
 ![A log disintegrating, with peeled-off bark](./img/IMG_0311.jpg)
-A log disintegrating, with peeled-off bark
+A log disintegrating, with peeled-off bark. Wood deterioration is caused by a variety of biological processes, accelerated by enzymes and by interactions with bacteria, fungi and insects. ^[A footnote about wooood]
 
 
 ![A mushroom growing from a living birch tree](./img/IMG_0313.jpg)
