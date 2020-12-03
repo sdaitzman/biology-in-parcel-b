@@ -33,6 +33,9 @@ export default {
   },
   mounted() {
     mediumZoom('img')
+  },
+  updated() {
+    mediumZoom('img')
   }
 }
 </script>
