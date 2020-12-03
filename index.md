@@ -6,146 +6,183 @@ layout: "Layout"
 
 # SEASONAL CHANGES IN PARCEL B
 
-This website represents a summary and documentation for my research project documenting seasonal changes in Parcel B, the forest adjoining Olin College of Engineering in Needham, Massachusetts. I used a combination of several cameras to document changes as I observed them on regular walks through the forest, and took notes regarding the changes I observed. I researched the changes and built a [bibliography](#) of research relevant to the changing phenomena I observed. Here, find the images I captured, each with a summary explanation of the relevant literature review findings.
+This website represents a summary and documentation for my research project documenting seasonal changes in Parcel B, the forest adjoining Olin College of Engineering in Needham, Massachusetts. I used a combination of several cameras to document changes as I observed them on regular walks through the forest, and took notes regarding the changes I observed. I researched the changes and built a [bibliography](bibliography.md) of research relevant to the changing phenomena I observed. Here, find the images I captured, each with a summary explanation of the relevant literature review findings.
+
+*Made with ❤️ and 📸 at [Olin College](https://www.olin.edu) in Needham, Massachusetts.*
 
 <br><br><br>
 
 <div class="photos">
 
 ![A log disintegrating, with peeled-off bark](./img/IMG_0311.jpg)
+A log disintegrating, with peeled-off bark
 
 
 ![A mushroom growing from a living birch tree](./img/IMG_0313.jpg)
+A mushroom growing from a living birch tree
 
 
 ![Cattails with fruiting bodies displayed](./img/IMG_0322.jpg)
+Cattails with fruiting bodies displayed
 
 
-![](./img/IMG_0323.jpg)
+![Open space along the pond in Parcel B](./img/IMG_0323.jpg)
+Open space along the pond in Parcel B
 
 
-![](./img/IMG_9621.jpg)
+![Ripe bright red berries covered in dew](./img/IMG_9621.jpg)
+Ripe bright red berries covered in dew
 
 ![A pumpkin rotting on a stake](./img/IMG_0309.jpg)
-Some text next to the first image. This is some more text. Some text next to the first image. This is some more text. Some text next to the first image. This is some more text. Some text next to the first image. This is some more text. Some text next to the first image. This is some more text. 
+A pumpkin rotting on a stake
 
-![](./img/IMG_9622.jpg)
 
 
-![](./img/IMG_9625.jpg)
+![A leaf with bright backlight](./img/IMG_9622.jpg)
+A leaf with bright backlight
 
 
-![](./img/IMG_9626.jpg)
+![Autumn olives surrounded by leaves](./img/IMG_9625.jpg)
+Autumn olives surrounded by leaves
 
 
-![](./img/IMG_9629.jpg)
+![Autumn olives glowing red in sunlight](./img/IMG_9626.jpg)
+Autumn olives glowing red in sunlight
 
 
-![](./img/IMG_9630.jpg)
+![Dewy weed leaves](./img/IMG_9629.jpg)
+Dewy weed leaves
 
 
-![](./img/IMG_9632.jpg)
+![Dewy spideweb in grass](./img/IMG_9630.jpg)
+Dewy spideweb in grass
 
 
-![](./img/IMG_9637.jpg)
+![Dewy grass with fruiting bodies](./img/IMG_9632.jpg)
+Dewy grass with fruiting bodies
 
 
-![](./img/IMG_9645.jpg)
+![A small daisy-like flower in grass with dew](./img/IMG_9637.jpg)
+A small daisy-like flower in grass with dew
 
 
-![](./img/IMG_9648.jpg)
+![A chickadee in a crab-apple tree branch](./img/IMG_9645.jpg)
+A chickadee in a crab-apple tree branch
 
 
-![](./img/IMG_9649.jpg)
+![An oak leaf, turning from green to red, against the blue sky](./img/IMG_9648.jpg)
+An oak leaf, turning from green to red, against the blue sky
 
 
-![](./img/IMG_9659.jpg)
+![Bittersweet vine leaves hanging](./img/IMG_9649.jpg)
+Bittersweet vine leaves hanging
 
 
-![](./img/IMG_9664.jpg)
+![Bumblebee at a flower](./img/IMG_9659.jpg)
+Bumblebee at a flower
 
 
-![](./img/IMG_9665.jpg)
+![A small purple aster flower](./img/IMG_9664.jpg)
+A small purple aster flower
 
 
-![](./img/IMG_9676.jpg)
+![A frog floating in water](./img/IMG_9665.jpg)
+A frog floating in water
 
 
-![](./img/IMG_9677.jpg)
+![Rose hips against a blurry background of more rose hips](./img/IMG_9676.jpg)
+Rose hips against a blurry background of more rose hips
 
 
-![](./img/IMG_9685.jpg)
+![Closeup of rose hips](./img/IMG_9677.jpg)
+Closeup of rose hips
 
 
-![](./img/IMG_9849.jpg)
+![Geese flying through the air](./img/IMG_9685.jpg)
+Geese flying through the air
 
 
-![](./img/IMG_9850.jpg)
+![A single red-yellow poplar leaf on the ground](./img/IMG_9849.jpg)
+A single red-yellow poplar leaf on the ground
 
 
-![](./img/IMG_9854.jpg)
+![A rotting pumpkin showing progression of deterioration](./img/IMG_9850.jpg)
+A rotting pumpkin showing progression of deterioration
 
 
-![](./img/IMG_9856.jpg)
+![Moss poking up through pine needles](./img/IMG_9854.jpg)
+Moss poking up through pine needles
 
 
-![](./img/IMG_9857.jpg)
+![Birch tree leaves deteriorating to yellow with brown flecks](./img/IMG_9856.jpg)
+Birch tree leaves deteriorating to yellow with brown flecks
 
 
-![](./img/IMG_9862.jpg)
+![A small chipmunk on a branch](./img/IMG_9857.jpg)
+A small chipmunk on a branch
 
 
-![](./img/IMG_9867.jpg)
+![A blue heron looking out over the water](./img/IMG_9862.jpg)
+A blue heron looking out over the water
 
 
-![](./img/IMG_9872.jpg)
+![A blue heron flying over water](./img/IMG_9867.jpg)
+A blue heron flying over water
 
 
-![](./img/IMG_9873.jpg)
+![A blue heron looking out at water, filled with a school of orange fish](./img/IMG_9872.jpg)
+A blue heron looking out at water, filled with a school of orange fish
 
 
-![](./img/IMG_9879.jpg)
+![A small native green bee at a white aster](./img/IMG_9873.jpg)
+A small native green bee at a white aster
 
 
-![](./img/IMG_9887.jpg)
+![A red dragonfly on a low spiky viney plant](./img/IMG_9879.jpg)
+A red dragonfly on a low spiky viney plant
 
 
-![](./img/IMG_9888.jpg)
+![A frog floating in water](./img/IMG_9887.jpg)
+A frog floating in water
 
 
-![](./img/IMG_9890.jpg)
+![A water insect swimming](./img/IMG_9888.jpg)
+A water insect swimming
 
 
-![](./img/IMG_9898.jpg)
+![A small dewy spiderweb in grass and small plants](./img/IMG_9890.jpg)
+A small dewy spiderweb in grass and small plants
 
 
-![](./img/IMG_9902.jpg)
+![A tiny brown grasshopper with stubby antennae sitting on a small leaf](./img/IMG_9898.jpg)
+A tiny brown grasshopper with stubby antennae sitting on a small leaf
 
 
-![](./img/IMG_9906.jpg)
+![A medium-size brown-and-green grasshopper with long antennae, one missing, sitting on a small leaf](./img/IMG_9902.jpg)
+A medium-size brown-and-green grasshopper with long antennae, one missing, sitting on a small leaf
 
 
-![](./img/IMG_9969.jpg)
+![A vibrant yellow leaf with green speckles still remaining and a heart shape cut out by a leaf-eating animal](./img/IMG_9906.jpg)
+A vibrant yellow leaf with green speckles still remaining and a heart shape cut out by a leaf-eating animal
+
+
+![Oak leaves with a sunny background](./img/IMG_9969.jpg)
+Oak leaves with a sunny background
 
 
 ![Pine needles covered in snow](./img/IMG_9971.jpg)
-In Seasonal Changes in White Pine Leaves: A Comparison of Cold Resistance and Free-Sugar Fluctuations, Parker examines the effects of variations in extreme cold temperature on pine needle samples taken from Eastern white pine trees (the same variety I’ve found on Olin’s campus). Two stands of trees were used to collect samples. Three trees in each location were sampled periodically, with branches and terminal shoots taken for analysis. The pine needles, branches and shoots were stored in flasks, and the scientists gradually lowered the temperature and analyzed the plants’ reactions.
-
-After this process, the scientists used chromatography to discern changes in sugars. The scientists found a “nearly constant level of cold resistance” from the group of Branford pines sampled between May and August, but found that the cold-hardiness increased significantly as the climate cooled. Some of the samples, in reaction to cooling temperature in the fall and winter, developed a remarkable level of cold resistance, with leaf samples surviving down to as cold as -78˚ C.
-
-Sucrose levels were not connected (or, only very slightly changed) in accordance to changes in hardiness, but it appeared that raffinose levels increased in autumn, closely aligning with the increase in cold-hardiness. The researchers believe that the quantity of raffinose sampled from Eastern White Pine leaves is highly predictive of their cold-hardiness, both across different tree stands and within individual trees as they react to seasonal changes.
+Pine needles covered in snow
 
 
-
-![](./img/IMG_9975.jpg)
-
-
-![](./img/IMG_9986.jpg)
+![Leaves with a blurry background](./img/IMG_9975.jpg)
+Leaves with a blurry background
 
 
+![Crab apples, beginning to deteriorate, with snow in the background](./img/IMG_9986.jpg)
+Crab apples, beginning to deteriorate, with snow in the background
 
 </div>
 
-<br><br><br><br>
+Copyright 2020. All rights reserved. [Colophon](colophon.md). Take care.
 
-*Made with ❤️ and 📸 at [Olin College](https://www.olin.edu) in Needham, Massachusetts.*
+<br><br><br><br>
