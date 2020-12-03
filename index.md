@@ -52,8 +52,8 @@ Autumn olives glowing red in sunlight
 Dewy weed leaves
 
 
-![Dewy spideweb in grass](./img/IMG_9630.jpg)
-Dewy spideweb in grass
+![Dewy spiderweb in grass](./img/IMG_9630.jpg)
+Dewy spiderweb in grass
 
 
 ![Dewy grass with fruiting bodies](./img/IMG_9632.jpg)
