@@ -26,6 +26,7 @@ import 'normalize.css'
 import "fontsource-libre-baskerville"
 import $ from 'jquery'
 import mediumZoom from 'medium-zoom'
+import 'lazysizes'
 
 export default {
   components: {
