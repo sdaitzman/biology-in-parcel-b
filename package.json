@@ -22,12 +22,12 @@
     "@centerforopenscience/markdown-it-imsize": "^2.0.1",
     "fontsource-libre-baskerville": "^3.0.9",
     "jquery": "^3.5.1",
+    "markdown-it-footnote": "^3.0.2",
     "medium-zoom": "^1.0.6",
     "minimasonry": "^1.1.5",
     "normalize.css": "^8.0.1",
     "sass": "^1.29.0",
     "sass-loader": "^10.1.0",
-    "vuepress": "^1.7.1",
-    "vuepress-plugin-md-enhance": "^1.7.2"
+    "vuepress": "^1.7.1"
   }
 }

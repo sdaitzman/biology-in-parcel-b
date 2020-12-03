@@ -1,13 +1,6 @@
 module.exports = {
   title: 'PARCEL B SEASONAL CHANGES',
-  plugins: [
-    [
-      "md-enhance",
-      {
-        // your options
-      }
-    ]
-  ],
+  plugins: [],
   markdown: {
     anchor: {
       permalink: false,
@@ -16,6 +9,7 @@ module.exports = {
     },
     extendMarkdown: md => {
       md.use(require('@centerforopenscience/markdown-it-imsize'))
+        .use(require('markdown-it-footnote'))
     }
     // lineNumbers: true
   }
