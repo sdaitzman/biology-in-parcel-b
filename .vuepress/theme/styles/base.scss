@@ -25,11 +25,12 @@ a span { display: none }
 }
 
 .photos p {
-    display: flex;
-    flex-direction: column;
     font-style: italic;
     color: rgb(78, 78, 78);
-    img { margin: 100px 0 25px }
+    margin: 5px;
+    img {
+        margin-top: 75px;
+    }
 }
 
 @media (max-width: 1000px) {
