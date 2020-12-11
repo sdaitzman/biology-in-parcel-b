@@ -1,5 +1,7 @@
 # biology-in-parcel-b
-Biology of seasonal change and zeitgebers in Olin College of Engineering's forest, Parcel B
+Biology of seasonal change and zeitgebers in Olin College of Engineering's forest, Parcel B.
+
+***[🌳 enter the forest at parcelb.bio](https://parcelb.bio), and archived at [netlify](https://biology-in-parcel-b.netlify.app)***
 
 ## Development
 ```bash
