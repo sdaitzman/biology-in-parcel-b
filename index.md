@@ -14,12 +14,12 @@ This website represents a summary and documentation for my research project docu
 
 ![A log disintegrating, with peeled-off bark](./img/IMG_0311.jpg)
 
-A log disintegrating, with peeled-off bark. Wood deterioration is caused by a variety of biological processes, accelerated by enzymes and by interactions with bacteria, fungi and insects. ^[A test footnote about wood deterioration, which should cite Robert Blanchette]
+A log disintegrating, with peeled-off bark. Wood deterioration is caused by a variety of biological processes, accelerated by enzymes and by interactions with bacteria, fungi and insects. ^[Blanchette]
 
 
 ![A mushroom growing from a living birch tree](./img/IMG_0313.jpg)
 
-A mushroom growing from a living birch tree
+A fungus growing from a living birch tree. This is very likely a Birch Polypore ^[[plants.alaska.gov](http://plants.alaska.gov/pdf/Conks.pdf)], which is known for fascinating properties like its ability to treat wounds. According to some research, it can act as a valuable enzyme reservoir and provide substances like cell wall glucans, which can induce a breakdown of some thin bacteria colonies (biofilms) responsible for tooth decay^[[Springer](https://link.springer.com/content/pdf/10.1007/s11274-017-2247-0.pdf)]
 
 
 ![Cattails with fruiting bodies displayed](./img/IMG_0322.jpg)
