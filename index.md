@@ -44,12 +44,12 @@ A pumpkin (C. Pepo) rotting on a stake as it is decomposed by bacteria. The surf
 
 ![A leaf with bright backlight](./img/IMG_9622.jpg)
 
-A leaf with bright backlight
+A leaf (species unknown) with bright backlight. This leaf is beginning to suffer from a viral or fungal infection, but the bright green portions of the leaf are still processing sunlight using chlorophyll.
 
 
 ![Autumn olives surrounded by leaves](./img/IMG_9625.jpg)
 
-Autumn olives surrounded by leaves
+Autumn olives (Elaeagnus umbellata) surrounded by leaves. Autumn olives are a tasty berry that contains lycopene.
 
 
 ![Autumn olives glowing red in sunlight](./img/IMG_9626.jpg)
