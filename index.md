@@ -14,31 +14,31 @@ This website represents a summary and documentation for my research project docu
 
 ![A log disintegrating, with peeled-off bark](./img/IMG_0311.jpg)
 
-A log disintegrating, with peeled-off bark. Wood deterioration is caused by a variety of biological processes, accelerated by enzymes and by interactions with bacteria, fungi and insects. ^[Blanchette]
+A log disintegrating, with peeled-off bark. Wood deterioration is caused by a variety of biological processes, accelerated by enzymes and by interactions with bacteria, fungi and insects.
 
 
 ![A mushroom growing from a living birch tree](./img/IMG_0313.jpg)
 
-A fungus growing from a living birch tree. This is very likely a Birch Polypore ^[[plants.alaska.gov](http://plants.alaska.gov/pdf/Conks.pdf)], which is known for fascinating properties like its ability to treat wounds. According to some research, it can act as a valuable enzyme reservoir and provide substances like cell wall glucans, which can induce a breakdown of some thin bacteria colonies (biofilms) responsible for tooth decay^[[Springer](https://link.springer.com/content/pdf/10.1007/s11274-017-2247-0.pdf)]
+A fungus growing from a living birch tree. This is very likely a Birch Polypore (Piptoporus betulinus), which is known for fascinating properties like its ability to treat wounds. According to some research, it can act as a valuable enzyme reservoir and provide substances like cell wall glucans, which can induce a breakdown of some thin bacteria colonies (biofilms) responsible for tooth decay. This birch conk is similar to the one found in the pouch of Öetzi, an ice man who may have used it to treat intestinal parasites. It can be used to treat infections if sliced thin and placed on a wound.
 
 
 ![Cattails with fruiting bodies displayed](./img/IMG_0322.jpg)
 
-Cattails with fruiting bodies displayed
+Cattails (Typha sp.) with fruiting bodies displayed. Cattails are a monocotyledonous plant that grows alongside various bodies of water, often along wastewater areas. It can act as an important chemical reservoir in these ecosystems by uptaking some heavy metals. Cattails store most of these heavy metals below ground in their roots, which means that their upper sections can be harvested and used as insulation for homes. Each hectare can annually produce enough cattail materials to insulate up to three houses.
 
 
 ![Open space along the pond in Parcel B](./img/IMG_0323.jpg)
 
-Open space along the pond in Parcel B
+Open space along the pond in Parcel B. Over the last 12,000 years, vegetation and climate have varied significantly in Massachusetts. In one area nearby, scientists at the Center for Climatic Research observed a continuous history of different species of pine trees. "A Picea-Hudsonia parkland and then a Picea-Pinus banksiana-Alnus crispa boreal forest association grew near the site between 12,000 and 10,000 yr B.P. This vegetation was replaced by a northern conifer forest of Pinus strobus-P. banksiana, and, subsequently, by a more mesophytic forest (Pinus strobus, Tsuga, Quercus, Fagus, Acer, Urnus, Fraxinus, Ostrya) as the climate became warmer and wetter by 9500 yr B.P. By 9000 yr B.P. a Pinus rigida-Quercus association dominated the landscape. High charcoal frequencies from this and subsequent levels suggest that the pine barrens association developed during a warmer and drier climate that lasted from 9000 to about 5000 yr B.P. Increased percentages of Pinus strobus pollen indicate a return to moister and cooler conditions by about 3500 yr B.P. A doubled sedimentation rate, increased charcoal, and increased herb pollen suggest land disturbance near the pond before European settlement. These results suggest a rapid warming in the northeast in the early Holocene and support a hypothesis of a rapid sea level rise at that time." Evidence of past climate changes, and the significant impact they had on the ecosystems that surround us, are important evidence that modern (human-made) climate change could have similarly major effects on current species, like us.
 
 
 ![Ripe bright red berries covered in dew](./img/IMG_9621.jpg)
 
-Ripe bright red berries covered in dew
+Ripe bright red berries covered in dew. This may be a Pyracantha coccinea 'Red Cushion' (Scarlet Firethorn), which is hardy to around -23˚ Celsius.
 
 ![A pumpkin rotting on a stake](./img/IMG_0309.jpg)
 
-A pumpkin rotting on a stake
+A pumpkin (C. Pepo) rotting on a stake as it is decomposed by bacteria. The surface of pumpkin rinds contains at least one powerful antifungal protein capable of inhibiting growth of a wide variety of fungi (Botrytis cinerea, Colletotrichum coccodes, Fusarium solani, Fusarium oxysporum, and Trichoderma harzianum) in experiments, but eventually some mold spores are still able to germinate and destroy the fruit.
 
 
 
